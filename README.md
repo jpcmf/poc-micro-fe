@@ -16,10 +16,6 @@ Tip: For the server you need run the app in develop mode:
 yarn && yarn start:dev
 ```
 
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
-
 ## :man_technologist: About the author
 
 <img src="https://github.com/jpcmf.png" width="100px;" alt="avatar"/>
@@ -30,6 +26,10 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 [![Gmail Badge](https://img.shields.io/badge/-jpfricks@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpfricks@gmail.com)](mailto:jpfricks@gmail.com)
 
 <small>"If at first the idea is not absurd, then there is no hope for it." – Albert Einstein</small>
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
