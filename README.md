@@ -1,6 +1,6 @@
 # POC Micro-Frontend
 
-<p>In this repository you'll find a case study example of an app using the concepts of Module Federation with React and using react-router-dom to manage the routing.</p>
+<p>In this repository you'll find a case study of an app using the concepts of Module Federation with React and using react-router-dom to manage the routing.</p>
 
 ## :gear: Build Setup
 
