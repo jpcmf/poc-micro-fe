@@ -1,6 +1,10 @@
 # POC Micro-Frontend
 
-<p>In this repository you'll find a case study of an app using the concepts of Module Federation with React and using react-router-dom to manage the routing.</p>
+<h1 align="center">
+    <img alt="Webpack" src=".github/modulefederation.png" width="550" />
+</h1>
+
+In this repository you'll find a case study of an app using the concepts of [Module Federation](https://webpack.js.org/concepts/module-federation/) (Webpack 5) with [React](https://reactjs.org/) and using [react-router-dom](https://reactrouter.com/) to manage the routing.
 
 ## :gear: Build Setup
 
@@ -10,7 +14,7 @@ You need run these commands in the directories in a different terminal window fo
 yarn && yarn start
 ```
 
-Tip: For the server you need run the app in develop mode:
+Tip: For the server you can run the app in develop mode:
 
 ```bash
 yarn && yarn start:dev
@@ -18,7 +22,7 @@ yarn && yarn start:dev
 
 ## :man_technologist: About the author
 
-<img src="https://github.com/jpcmf.png" width="100px;" alt="avatar"/>
+<img src="https://github.com/jpcmf.png" width="235" alt="avatar"/>
 
 :wolf:&nbsp; Find me!
 
