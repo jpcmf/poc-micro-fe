@@ -44,6 +44,24 @@ const products: Product[] = [
     longDescription:
       'Rainbow Flames are small (1.5″ in diameter or approx. 46mm) fidget spinner toys. They are fun for people of all ages, including adults and kids. Kids love to play with Rainbow Flames because they are easy to spin and they come in assorted colors, like blue, green, red, white, purple and yellow possible combinations. Rainbow Flames fidget spinners are great for killing time; perfect for daydreaming, calming nerves, focusing attention & relaxing; better than nail biting & knuckle cracking. Rainbow Flames fidget spinners can be successfully incorporated into therapy sessions as fidget toys',
   },
+  {
+    id: 5,
+    name: 'Shape 5',
+    price: 8.99,
+    description: 'Flaming rainbow fun for all ages.',
+    image: 'http://localhost:8080/shape2.jpg',
+    longDescription:
+      'Rainbow Flames are small (1.5″ in diameter or approx. 46mm) fidget spinner toys. They are fun for people of all ages, including adults and kids. Kids love to play with Rainbow Flames because they are easy to spin and they come in assorted colors, like blue, green, red, white, purple and yellow possible combinations. Rainbow Flames fidget spinners are great for killing time; perfect for daydreaming, calming nerves, focusing attention & relaxing; better than nail biting & knuckle cracking. Rainbow Flames fidget spinners can be successfully incorporated into therapy sessions as fidget toys',
+  },
+  {
+    id: 6,
+    name: 'Shape 6',
+    price: 9.99,
+    description: 'Flaming rainbow fun for all ages.',
+    image: 'http://localhost:8080/shape4.jpg',
+    longDescription:
+      'Rainbow Flames are small (1.5″ in diameter or approx. 46mm) fidget spinner toys. They are fun for people of all ages, including adults and kids. Kids love to play with Rainbow Flames because they are easy to spin and they come in assorted colors, like blue, green, red, white, purple and yellow possible combinations. Rainbow Flames fidget spinners are great for killing time; perfect for daydreaming, calming nerves, focusing attention & relaxing; better than nail biting & knuckle cracking. Rainbow Flames fidget spinners can be successfully incorporated into therapy sessions as fidget toys',
+  },
 ];
 
 export default products;
