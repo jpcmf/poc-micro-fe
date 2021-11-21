@@ -1,7 +1,7 @@
 # POC Micro-Frontend
 
 <h1 align="center">
-    <img alt="Webpack" src=".github/modulefederation.png" width="550" />
+    <img alt="Webpack" src=".github/modulefederation.png" width="500" />
 </h1>
 
 In this repository you'll find a case study of an app using the concepts of [Module Federation](https://webpack.js.org/concepts/module-federation/) (Webpack 5) with [React](https://reactjs.org/) and using [react-router-dom](https://reactrouter.com/) to manage the routing.
@@ -18,6 +18,23 @@ Tip: For the server you can run the app in develop mode:
 
 ```bash
 yarn && yarn start:dev
+
+```
+
+## :test_tube: Tests
+
+You have the choice to use two types of test. The unity test methodology or the end-to-end methodology. _I have added some simple examples in how to work on with them_.
+
+### To run with [Jest](https://jestjs.io/)
+
+```bash
+cd home && yarn start
+```
+
+### To run with [Cypress](https://www.cypress.io/)
+
+```bash
+cd home && yarn run cypress open
 ```
 
 ## :man_technologist: About the author
@@ -37,4 +54,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with :purple_heart:&nbsp; by João Paulo Fricks
+Made with :purple_heart: by João Paulo Fricks
