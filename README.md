@@ -21,9 +21,10 @@ yarn && yarn start:dev
 
 ```
 
-## :microscopes: Tests
+## :microscope: Tests
 
-You have the choice to use two types of test. The unity test methodology or the end-to-end methodology. _I have added some simple examples in how to work on with them_.
+You have the choice to use two types of test. The unity test methodology or the end2end methodology.  
+_I have added some simple examples in how to work on with them: [unity test with Jest](home/src/useCartCount.spec.js) and [end2end test with Cypress](home/cypress/integration/e2e_spec.js)_.
 
 ### To run with [Jest](https://jestjs.io/)
 
