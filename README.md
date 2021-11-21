@@ -21,7 +21,7 @@ yarn && yarn start:dev
 
 ```
 
-## :test_tube: Tests
+## :microscopes: Tests
 
 You have the choice to use two types of test. The unity test methodology or the end-to-end methodology. _I have added some simple examples in how to work on with them_.
 
@@ -54,4 +54,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with :purple_heart: by João Paulo Fricks
+Made with :purple_heart:&nbsp; by João Paulo Fricks
