@@ -10,9 +10,13 @@ export default function Header() {
       <div className="p-5 bg-blue-500 text-white text-3xl font-bold">
         <div className="flex">
           <div className="flex-grow">
-            <Link to="/">Shapes World</Link>
+            <Link to="/" id="store_name">
+              Shapes World
+            </Link>
             <span className="mx-5">|</span>
-            <Link to="/cart">Cart</Link>
+            <Link to="/cart" id="cart">
+              Cart
+            </Link>
           </div>
           <div className="flex-end relative">
             <MiniCart />

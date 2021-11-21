@@ -25,7 +25,7 @@ export default function CartContent() {
           </React.Fragment>
         ))}
       </div>
-      <div className="flex justify-end text-sm font-bold mt-3">
+      <div id="grand_total" className="flex justify-end text-sm font-bold mt-3">
         {currency.format(items.reduce((a, v) => a + v.quantity * v.price, 0))}
       </div>
 
