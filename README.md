@@ -29,7 +29,7 @@ _I have added some simple examples in how to work on with them: [unity test with
 ### To run with [Jest](https://jestjs.io/)
 
 ```bash
-cd home && yarn start
+cd home && yarn jest
 ```
 
 ### To run with [Cypress](https://www.cypress.io/)
